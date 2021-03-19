@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alvis
 - 👀 I’m interested in technologies and music.
-- 🌱 I’m currently learning PHP, javascript.
-- 💞️ I’m currently working with symfony and react.
+- 🌱 I’m currently learning PHP and javascript.
+- 💞️ I’m web developer and i working with symfony framework.
 - 📫 If you want to reach me here is my mail -> alvisgrigaluns@gmail.com
